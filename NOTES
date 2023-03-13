@@ -1,0 +1,49 @@
+int a = 10
+
+a - Character
+A - Character
+ - Blank Character
+
+aA - String
+
+str myName="jon"
+
+myName="jon"
+
+
+[]  -> list
+{:} -> dict
+{}  -> set
+()  -> tup
+
+
+2>1 = true
+1<2 = true
+10>20 = false
+
+bool isgrater= 10>5
+true
+
+bool isgrater= 10<5
+false
+
+
+
+int a = 10
+int b = 20
+int c = b-a
+print(c) #
+
+
+int x = 2
+int y = 3
+int z = x * y
+print(z) # 6
+
+
+
+
+
+
+
+
