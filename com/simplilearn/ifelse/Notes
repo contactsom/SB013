@@ -1,0 +1,18 @@
+Grade System:
+
+Marks       Grade
+>90            A+
+<90 or > 80    A
+<80 or > 40    B
+<40            C
+
+
+
+
+if(True):
+    print("I am true")
+
+
+if(False):
+    print("I am False") # This code is unreachable
+
