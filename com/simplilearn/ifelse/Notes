@@ -16,3 +16,22 @@ if(True):
 if(False):
     print("I am False") # This code is unreachable
 
+
+x3=10
+if(True):
+    print("X3 is grater than 200")
+elif(x3>50):
+    print("X3 is grater than 50")
+elif(x3>6):
+    print("X3 is grater than 6")
+else:
+    print("X3 1is not grater than 200,50,60")
+
+
+
+
+
+
+
+
+
