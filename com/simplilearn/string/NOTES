@@ -1,0 +1,9 @@
+myString4="ngokula"
+if ngokula in myString4:
+    print("ngokula Exist ")
+print("ngokula NOT Exist ")
+
+
+sir there is another thing in string like mystring[0:5:2]
+
+3 parameters ?
