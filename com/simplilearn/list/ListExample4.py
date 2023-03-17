@@ -1,7 +1,7 @@
 print("This is the LIST Example")
 print("******** START ***********")
 
-list=[ 10, 20, 30, 40, 50 ]
+list=[ 10, 20, 30, 40, 50, 50 ]
 print(list)
 
 print(list[0]) #10
