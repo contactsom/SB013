@@ -1,0 +1,82 @@
+1. You are writing a code to connect to MySql DB
+    -> MySql DB Not Fonud
+
+2. You have a requirement to read the data from File.
+    -> File Not Found
+
+3. Reaching the office without ID card
+    ->Exception Occured
+
+Risky Code
+
+
+What is the Exception Handling ?
+
+
+int x = 110
+    print(x)
+
+1. Compile Time Error or Syntex Error
+2. Runtime Error
+
+
+
+Quiz :
+
+------------------1.Q-------------------
+
+try:
+    print("Try")
+
+O/P - Not Valid
+-----------------2.Q--------------------
+
+except:
+    print("except")
+
+O/P - Not Valid
+
+
+-----------------3.Q--------------------
+
+else:
+    print("else")
+
+O/P - Not Valid
+
+-----------------4.Q--------------------
+try:
+    print("try")
+except:
+    print("except")
+
+O/P - Valid
+
+
+-----------------5.Q--------------------
+try:
+    print("try")
+except:
+    print("except")
+else:
+    print("else")
+
+O/P - Valid
+
+-----------------6.Q--------------------
+try:
+    print("try")
+else:
+    print("else")
+finally:
+    print("except")
+
+O/P - Not Valid
+
+
+
+
+
+
+
+
