@@ -10,8 +10,8 @@ Polymorphism means "many forms"
     1.3 Constructor Overloading
 
 2. Overriding
-    2.1 Method Overloading
-    2.2 Constructor Overloading
+    2.1 Method Overriding
+    2.2 Constructor Overriding
 
 Two Method are said to be overloaded IFF :
     1. Method name Should be same
