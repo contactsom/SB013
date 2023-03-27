@@ -41,10 +41,7 @@ int z = x * y
 print(z) # 6
 
 
-Text - 
-CSV
-YAML
-JSON
+
 
 
 
