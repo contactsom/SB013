@@ -1,0 +1,7 @@
+pass the request body to filter the response data,can you teach this concept  ?
+
+REST HTTP Method:
+
+requests.get -: to featch the data
+requests.put -: to update the data
+requests.post -: to write teh data
